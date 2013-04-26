@@ -1,8 +1,6 @@
 /**
- * @description jQuery plugin pagination
- * @required jQuery, bootstrap-v2.2.2
- * @by yangchunwen@baidu.com
- * @date 2012-12-26
+ * @description jQuery plugin pager
+ * @required jQuery
  */
 
 !function($) {
